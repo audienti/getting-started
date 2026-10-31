@@ -1,0 +1,11 @@
+{
+  "name": "getting-started",
+  "version": "0.1.0",
+  "description": "Connect an agent to Audienti: report its tools, introduce it and propose a first campaign test.",
+  "author": {
+    "name": "Audienti"
+  },
+  "skills": "./skills/",
+  "homepage": "https://github.com/audienti/getting-started",
+  "repository": "https://github.com/audienti/getting-started"
+}
